@@ -3,7 +3,7 @@ from recommender import recommend
 import requests
 
 # ---------------- TMDB CONFIG ----------------
-API_KEY = "422bb906600a78d0528f4f96c7944df9"
+API_KEY = "your_tmdb_api_key"
 
 def fetch_poster(title):
     try:
